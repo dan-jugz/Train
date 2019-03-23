@@ -6,6 +6,26 @@
     <title>triangle Tracker</title>
   </head>
   <body>
+    <div id="head">
+     <center>
+       <img src="https://media.giphy.com/media/wPmEdwwaBNrcA/giphy.gif" alt="load" class="load">
+       <h1>Triangle Tracker</h1>
+     </center>
+   </div>
+   <div id="user">
+     <center>
+     <form id="user_data"><br><br>
+       <label>Side A</label>
+       <input type="number" id="sideA" autofocus placeholder="length of side A"><br><br>
+       <label>Side B</label>
+       <input type="number" id="sideB" autofocus placeholder="length of side B"><br><br>
+       <label>Side C</label>
+       <input type="number" id="sideC" autofocus placeholder="length of side C"><br><br>
+       <button type="button" name="button" onclick="tracker()" class="send">TRACK</button>
+       <button type="reset" name="button" class="change">RESET</button><br><br>
+       <span id="trackOutput"></span>
+     </form>
+   </div><br><br>
 
   </body>
   <script src="main/script.js"></script>
