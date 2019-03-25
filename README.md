@@ -21,9 +21,10 @@ one side is zero|  dosent make a triangle
 similar inputs|equilateral triangle
 two iputs equal|isoceles triangle
 no input equal|scalene triangle
-qualify triangle|not a triangle
+ dosent qualify triangle|not a triangle
 ### Known Bugs
 there are no known bugs at the moment
 ### support and contact details
 for errors, contact the developer at njugunadaniel364@gmail.com
-
+### License
+MIT licencce Copyright (c) 2019 Daniel Njuguna
