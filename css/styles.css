@@ -1,5 +1,7 @@
 body {
-  background-color: 000000 ;
+  background-image: url(images/triangle.jpg);
+  width: 100%;
+  position: fixed;
 }
 #user_data {
   background-color: #D0E9FB;
