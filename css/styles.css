@@ -32,3 +32,12 @@ body {
   height: 30px;
   border-radius: 10px;
 }
+input {
+  height: 25px;
+  border-radius: 10px;
+}
+
+#info {
+  display: flex;
+  align-content: center;
+}
